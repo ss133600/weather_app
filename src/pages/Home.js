@@ -1,3 +1,6 @@
+import { getWeather } from "../api";
+
 export const Home = () => {
-  return <div></div>;
+  getWeather();
+  return <div>home</div>;
 };
