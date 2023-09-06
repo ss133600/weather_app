@@ -29,3 +29,4 @@
 <!-- npm i react-helmet -->
 <!-- npm i axios -->
 <!-- npm i @tanstack/react-query -->
+<!-- npm i gh-pages -->
